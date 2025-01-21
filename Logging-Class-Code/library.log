@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T08:44:37.284297800Z</date>
+  <millis>1737449077284</millis>
+  <nanos>297800</nanos>
+  <sequence>1</sequence>
+  <logger>com.omar.Main</logger>
+  <level>SEVERE</level>
+  <class>com.omar.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe Error in the code out of memory</message>
+</record>
+<record>
+  <date>2025-01-21T08:44:37.288319300Z</date>
+  <millis>1737449077288</millis>
+  <nanos>319300</nanos>
+  <sequence>2</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning username incorrect</message>
+</record>
+</log>
+
+
+Jan 21, 2025 11:46:21 AM com.omar.Main main
+SEVERE: Severe Error in the code out of memory
+Jan 21, 2025 11:46:21 AM com.omar.Main main
+WARNING: Warning username incorrect
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T08:46:49.233186100Z</date>
+  <millis>1737449209233</millis>
+  <nanos>186100</nanos>
+  <sequence>1</sequence>
+  <logger>com.omar.Main</logger>
+  <level>SEVERE</level>
+  <class>com.omar.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe Error in the code out of memory</message>
+</record>
+<record>
+  <date>2025-01-21T08:46:49.235691400Z</date>
+  <millis>1737449209235</millis>
+  <nanos>691400</nanos>
+  <sequence>2</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning username incorrect</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
