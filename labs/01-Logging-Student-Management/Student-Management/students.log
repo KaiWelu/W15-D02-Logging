@@ -1,0 +1,17 @@
+Time: 1737458026297 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added
+Time: 1737458087814 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added
+Time: 1737458316165 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added - Parameters: [Kai]
+Time: 1737475855717 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added - Parameters: [Kai]
+Time: 1737475855758 - Logging Level: WARNING - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} does not exist in the list - Parameters: [Martin]
+Time: 1737475877835 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added - Parameters: [Kai]
+Time: 1737475877871 - Logging Level: WARNING - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} does not exist in the list - Parameters: [Martin]
+Time: 1737475877872 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added - Parameters: [Kathrin]
+Time: 1737475997811 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added - Parameters: [Kai]
+Time: 1737475997856 - Logging Level: WARNING - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} does not exist in the list - Parameters: [Martin]
+Time: 1737475997857 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added - Parameters: [Kathrin]
+Time: 1737475997857 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Number of Students is being fetched - Parameters: null
+Time: 1737476010652 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added - Parameters: [Kai]
+Time: 1737476010691 - Logging Level: WARNING - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} does not exist in the list - Parameters: [Martin]
+Time: 1737476010692 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added - Parameters: [Kathrin]
+Time: 1737476010692 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Student {0} has been added - Parameters: [Omar]
+Time: 1737476010692 - Logging Level: FINE - Thread ID: 1 - Logger Name: org.dci.StudentManagementSystem - Message: Number of Students is being fetched - Parameters: null
